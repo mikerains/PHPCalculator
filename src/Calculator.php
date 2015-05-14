@@ -48,6 +48,7 @@ class Calculator {
 //SPOCK!!!!
     //BEANS!!!   NETBEANS!!!
     //CHANGE MADE IN NETBEANS
+//POTATO CHIPS!!!
     public function plus($a, $b) {
         return $a + $b;
     }
