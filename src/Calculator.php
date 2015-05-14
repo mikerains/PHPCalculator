@@ -46,6 +46,7 @@
  */
 class Calculator {
 //SPOCK!!!!
+    //BEANS!!!   NETBEANS!!!
     public function plus($a, $b) {
         return $a + $b;
     }
