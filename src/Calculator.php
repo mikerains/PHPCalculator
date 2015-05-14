@@ -45,7 +45,7 @@
  * Simple class for our unit tests.
  */
 class Calculator {
-
+//SPOCK!!!!
     public function plus($a, $b) {
         return $a + $b;
     }
