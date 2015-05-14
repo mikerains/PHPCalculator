@@ -47,6 +47,7 @@
 class Calculator {
 //SPOCK!!!!
     //BEANS!!!   NETBEANS!!!
+//POTATO CHIPS!!!
     public function plus($a, $b) {
         return $a + $b;
     }
